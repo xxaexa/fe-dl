@@ -40,7 +40,8 @@ Aplikasi ini menggunakan **React Router**
 1. Clone Repository
 
    ```bash
-   git clone https://github.com/username/repository-name.git
+   git clone https://github.com/xxaexa/fe-dl.git
+ 
 
    ```
 
